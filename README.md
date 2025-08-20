@@ -63,3 +63,7 @@ Strategic Decision Making: Empowers managers to reduce cancellation rates, incre
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 Example: ![Dashboard Preview](https://github.com/Kautkar-Ashish/OLA-Project/blob/main/Slid1.JPG)
+Example: ![Dashboard Preview](https://github.com/Kautkar-Ashish/OLA-Project/blob/main/Slid2.JPG)
+Example: ![Dashboard Preview](https://github.com/Kautkar-Ashish/OLA-Project/blob/main/Slid3.JPG)
+Example: ![Dashboard Preview](https://github.com/Kautkar-Ashish/OLA-Project/blob/main/Slid4.JPG)
+Example: ![Dashboard Preview](https://github.com/Kautkar-Ashish/OLA-Project/blob/main/Slid5.JPG)
