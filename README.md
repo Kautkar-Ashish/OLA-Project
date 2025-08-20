@@ -61,9 +61,5 @@ Revenue Growth: Provides insights into popular vehicle types and payment methods
 Strategic Decision Making: Empowers managers to reduce cancellation rates, increase successful rides, and enhance overall reliability.
 
 ### 6.	Screenshots / Demos
-Example: ![Dashboard Preview]
-(https://github.com/Kautkar-Ashish/OLA-Project/blob/main/Slid1.JPG
-https://github.com/Kautkar-Ashish/OLA-Project/blob/main/Slid2.JPG
-https://github.com/Kautkar-Ashish/OLA-Project/blob/main/Slid3.JPG
-https://github.com/Kautkar-Ashish/OLA-Project/blob/main/Slid4.JPG
-https://github.com/Kautkar-Ashish/OLA-Project/blob/main/Slid5.JPG)
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview](https://github.com/Kautkar-Ashish/OLA-Project/blob/main/Slid1.JPG)
