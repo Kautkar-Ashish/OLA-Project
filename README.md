@@ -59,3 +59,10 @@ Operational Efficiency: Helps OLA identify problem areas such as frequent cancel
 Customer Experience: Reveals patterns in low ratings to improve driver training or system allocation.
 Revenue Growth: Provides insights into popular vehicle types and payment methods to optimize pricing and promotions.
 Strategic Decision Making: Empowers managers to reduce cancellation rates, increase successful rides, and enhance overall reliability.
+
+### 6.	Screenshots / Demos
+Example: ![Dashboard Preview]([https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png](https://github.com/Kautkar-Ashish/OLA-Project/blob/main/Slid1.JPG
+https://github.com/Kautkar-Ashish/OLA-Project/blob/main/Slid2.JPG
+https://github.com/Kautkar-Ashish/OLA-Project/blob/main/Slid3.JPG
+https://github.com/Kautkar-Ashish/OLA-Project/blob/main/Slid4.JPG
+https://github.com/Kautkar-Ashish/OLA-Project/blob/main/Slid5.JPG))
